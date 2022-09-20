@@ -1,0 +1,16 @@
+C:\Users\khath\OneDrive\Desktop\Perfect Numbers\Perfect Numbers\bin\Debug\Perfect Numbers.exe.config
+C:\Users\khath\OneDrive\Desktop\Perfect Numbers\Perfect Numbers\bin\Debug\Perfect Numbers.exe
+C:\Users\khath\OneDrive\Desktop\Perfect Numbers\Perfect Numbers\bin\Debug\Perfect Numbers.pdb
+C:\Users\khath\OneDrive\Desktop\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.csproj.AssemblyReference.cache
+C:\Users\khath\OneDrive\Desktop\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\khath\OneDrive\Desktop\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.csproj.CoreCompileInputs.cache
+C:\Users\khath\OneDrive\Desktop\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.exe
+C:\Users\khath\OneDrive\Desktop\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.pdb
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 4\Perfect Numbers\Perfect Numbers\bin\Debug\Perfect Numbers.exe.config
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 4\Perfect Numbers\Perfect Numbers\bin\Debug\Perfect Numbers.exe
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 4\Perfect Numbers\Perfect Numbers\bin\Debug\Perfect Numbers.pdb
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 4\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.csproj.AssemblyReference.cache
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 4\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 4\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.csproj.CoreCompileInputs.cache
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 4\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.exe
+C:\Users\khath\OneDrive\Desktop\Khathatse Tshepo, 201909464\Question 4\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.pdb
